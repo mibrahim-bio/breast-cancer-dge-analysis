@@ -1,3 +1,5 @@
+<img width="2085" height="1485" alt="heatmap" src="https://github.com/user-attachments/assets/5ccec31e-3f2d-4fb0-99bf-1adf30049fcd" />
+<img width="1500" height="1500" alt="top_genes" src="https://github.com/user-attachments/assets/58b8837e-e588-48cd-be57-2e21ad9a14ad" />
 # Differential Gene Expression Analysis — GSE45827 (Breast Cancer)
 
 ## Overview
