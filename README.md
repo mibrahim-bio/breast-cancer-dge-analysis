@@ -1,5 +1,3 @@
-<img width="2085" height="1485" alt="heatmap" src="https://github.com/user-attachments/assets/5ccec31e-3f2d-4fb0-99bf-1adf30049fcd" />
-<img width="1500" height="1500" alt="top_genes" src="https://github.com/user-attachments/assets/58b8837e-e588-48cd-be57-2e21ad9a14ad" />
 # Differential Gene Expression Analysis — GSE45827 (Breast Cancer)
 
 ## Overview
@@ -36,6 +34,9 @@ receptor-positive subtypes.
 Python 3, GEOparse, pandas, numpy, scipy, matplotlib, seaborn
 
 ## Files<img width="1500" height="1050" alt="volcano_plot" src="https://github.com/user-attachments/assets/f2926052-a336-4859-b5f9-7131b8f8e915" />
+<img width="2085" height="1485" alt="heatmap" src="https://github.com/user-attachments/assets/129823a1-8157-421b-83f4-1937b856f4ad" />
+<img width="1500" height="1500" alt="top_genes" src="https://github.com/user-attachments/assets/5d487558-8197-437e-9f90-ec2c2e9bbb45" />
+
 
 - genomics_analysis.ipynb — full analysis notebook with outputs
 - figures/ — volcano plot, top genes chart, heatmap
